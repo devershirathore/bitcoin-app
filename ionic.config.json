@@ -1,0 +1,8 @@
+{
+  "name": "bitcoin-tracker",
+  "app_id": "0caa2d6a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
